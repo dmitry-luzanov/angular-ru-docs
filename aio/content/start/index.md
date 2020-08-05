@@ -10,7 +10,7 @@
 <header>Новичок в веб-разработке?</header>
 
 
-Есть много ресурсов, чтобы дополнить Angular Docs. Документы Mozilla по MDN включают в себя [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML "Learning HTML: Guides and tutorials") и [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") введения.[Документы TypeScript](https://www.typescriptlang.org/docs/home.html "TypeScript documentation") включают 5-минутное руководство. Различные платформы онлайн-курсов, такие как [Udemy](http://www.udemy.com "Udemy online courses") и [Codecademy](https://www.codecademy.com/ "Codecademy online courses"), также охватывают основы веб-разработки.
+Есть много ресурсов, чтобы дополнить Angular Docs. Руководства Mozilla по MDN включают в себя введения по [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML "Learning HTML: Guides and tutorials") и [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript"). [Документация TypeScript](https://www.typescriptlang.org/docs/home.html "TypeScript documentation"), включая 5-минутное руководство. Различные платформы онлайн-курсов, такие как [Udemy](http://www.udemy.com "Udemy online courses") и [Codecademy](https://www.codecademy.com/ "Codecademy online courses"), также охватывают основы веб-разработки.
 
 </div>
 
@@ -41,7 +41,7 @@
 * Войдите в StackBlitz, чтобы иметь возможность сохранять и продолжать работу.
 Если у вас есть учетная запись GitHub, вы можете войти в StackBlitz
 с этим аккаунтом. Для того, чтобы сохранить ваш прогресс, в первую очередь
-разверните проект с помощью кнопки Fork вверху слева
+разверните проект с помощью кнопки Fork вверху слева,
 тогда вы сможете сохранить свою работу в своей учетной записи StackBlitz, нажав кнопку Save.
 * Чтобы скопировать пример кода из этого учебника, щелкните на значок
 в правом верхнем углу окна примера кода, а затем вставьте
@@ -60,7 +60,7 @@
 
 Если вы перейдете непосредственно в [среду онлайн-разработки StackBlitz](https://stackblitz.com/) и выберете [start a new  Angular workplace](https://stackblitz.com/fork/angular), вы получите приложение-заглушку, а не этот [иллюстративный пример](#new-project). Как только вы познакомитесь с основными понятиями здесь, это может быть полезно для интерактивной работы во время изучения Angular.
 
-В реальной разработке вы обычно будете использовать [Angular CLI](guide/glossary#command-line-interface-cli) - мощный инструмент командной строки, который позволяет создавать и изменять приложения. Для получения дополнительной информации см. [Обзор CLI](cli).
+В реальной разработке обычно вы будете использовать [Angular CLI](guide/glossary#command-line-interface-cli) - мощный инструмент командной строки, который позволяет создавать и изменять приложения. Для получения дополнительной информации см. [Обзор CLI](cli).
 
 </div>
 
